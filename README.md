@@ -1,18 +1,23 @@
 # RubiksCubeSimulatior
-
 U = top layer clockwise rotation of 90 degrees
+
 D = bottom layer clockwise rotation of 90 degrees
+
 F = front layer clockwise rotation of 90 degrees
+
 B = back layer clockwise rotation of 90 degrees
+
 R = right slice clockwise rotation of 90 degrees
+
 L = left slice clockwise rotation of 90 degrees
 
 x = entire cube clockwise rotation around x axis for 90 degrees
+
 y = entire cube clockwise rotation around y axis for 90 degrees
+
 z = entire cube clockwise rotation around z axis for 90 degrees
 
 If LEFT SHIFT is held when pressing the above buttons, a counterclockwise rotation will be conducted
-
 
 
 Rubik's Cube Solver
